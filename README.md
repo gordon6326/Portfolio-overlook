@@ -3,9 +3,9 @@
 Technical Skills: Python, SQL, R, Tableau
 
 ### Education
-M.S. Analytics| University of Southern California(May 2025) 
+M.S. Analytics| University of Southern California (May 2025) 
 
-B.A Statistics| University of California, Berkeley(December 2022)
+B.A Statistics| University of California, Berkeley (December 2022)
 
 ### Work Experience
 Data Science Intern @ Banyan Capital
