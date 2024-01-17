@@ -7,7 +7,7 @@ Technical Skills: Python, SQL, R, Tableau
 
 ### Education
 M.S. Analytics | University of Southern California (May 2025)   
-B.A Statistics | University of California, Berkeley (December 2022)
+B.A. Statistics | University of California, Berkeley (December 2022)
 
 ### Work Experience
 **Data Science Intern @ [Banyan Capital](https://www.gaorongvc.com/)**
@@ -18,7 +18,12 @@ B.A Statistics | University of California, Berkeley (December 2022)
 
 ### Projects
 - #### Data Analysis and Visualization
+	- [Exploratory Data Analysis of New Delhi Weather: Trend and Seasonality,](https://github.com/xinghongma/data-analysis/blob/main/New%20Delhi.pdf): Analysis of Delhi's daily temperature trends, offering insights into the city's climate patterns and potential implications of global warming.
 - #### Machine Learning
+	- [Deep Learning: Digit Sequence Recognition using Neural Network](https://github.com/xinghongma/ML/blob/main/Deep%20Learning%20Project.ipynb): Designing and implementing a Neural Network and Keras that learns to recognize sequences of digits using synthetic data.
+
+	_Tools: scikit-learn, Pandas, Seaborn, Matplotlib, Tensorflow_ 
+
 
 ### Courses
 - [Statistics](https://www.stat134.org/syllabus.html)
