@@ -3,8 +3,8 @@ Technical Skills: Python, SQL, R, Tableau, AWS, Hadoop, Linux
 
 ### About Me
 🙇‍♂️ I worked part-time as a Product Analyst on the [Thomas&Joe Pod](https://xiaohuoche.podcast.xyz/). 
+#### 🏆 Top Growth Mandarin Podcast in 2024
 #### Gained over 150,000 followers across TikTok, Spotify within 1 year.
-#### Top Growth Mandarin Podcast in 2024
 - I'm all about diving into the cool, often overlooked world of niche businesses and movers-and-shakers in the Mandarin biz scene. But it's not just talk – I use my data analysis chops to really understand what listeners love. By keeping an eye on user data, I'm always tweaking and improving our chats to keep you hooked and coming back for more. Stick around for stories that inspire, backed by data-driven insights that keep us growing!
 
 ### Education
